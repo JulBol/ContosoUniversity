@@ -1,0 +1,9 @@
+C:\GitHub\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.deps.json
+C:\GitHub\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.json
+C:\GitHub\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.dev.json
+C:\GitHub\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.dll
+C:\GitHub\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.pdb
+C:\GitHub\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\GitHub\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.AssemblyInfo.cs
+C:\GitHub\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.dll
+C:\GitHub\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.pdb
